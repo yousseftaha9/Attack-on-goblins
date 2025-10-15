@@ -23,17 +23,15 @@ It was developed as part of the **Object-Oriented Programming (OOP)** course in 
 - 💰 **In-game Currency System** to reward player strategy  
 - 🔊 **Sound Effects and Background Music** for an immersive experience  
 - 💀 **Game Over and Victory Screens** with score tracking  
-- 💾 **Data Persistence** (save/load game progress)  
 
 ---
 
 ## 🕹️ Gameplay Overview
 
 1. **Start from the Main Menu** – choose to start a new game or load a previous one.  
-2. **Place Towers Strategically** – defend your base by placing towers along the path of enemies.  
 3. **Survive Enemy Waves** – each round introduces new challenges and faster enemies.  
 4. **Upgrade Towers and Earn Coins** – optimize your defense strategy.  
-5. **Reach the Final Wave** – win the game or face defeat if your base is destroyed.  
+5. **Reach the Final Wave** – face defeat if your base is destroyed.  
 
 ---
 
@@ -59,31 +57,7 @@ It was developed as part of the **Object-Oriented Programming (OOP)** course in 
 
 ---
 
-## 🖼️ Screenshots
 
-### 🏠 Main Menu  
-*(Insert screenshot of the main menu here)*  
-![Main Menu](./Screenshot 2025-10-15 at 2.59.33 PM.png)
-
----
-
-### ⚔️ Gameplay Screenshots  
-*(Insert six gameplay screenshots here — showing tower placement, enemy waves, explosions, etc.)*  
-
-1. ![Gameplay 1](./images/gameplay-1-placeholder.png)  
-2. ![Gameplay 2](./images/gameplay-2-placeholder.png)  
-3. ![Gameplay 3](./images/gameplay-3-placeholder.png)  
-4. ![Gameplay 4](./images/gameplay-4-placeholder.png)  
-5. ![Gameplay 5](./images/gameplay-5-placeholder.png)  
-6. ![Gameplay 6](./images/gameplay-6-placeholder.png)
-
----
-
-### 💀 Game Over Screen  
-*(Insert screenshot of the game over screen here)*  
-![Game Over](./images/game-over-placeholder.png)
-
----
 
 ## 🚦 How to Run
 
@@ -109,7 +83,7 @@ Alternatively, run directly from your IDE by setting the main class as the **Jav
 ## 🧑‍💻 Contributors
 
 **Developed by:**  
-🧠 **Youssef Mohamed Taha**  
+🧠 **Youssef Mohamed Taha and Islam Zeidan**  
 
 > Ranked **Top 3** among all Semester 4 OOP course projects at the German University in Cairo (GUC).
 
